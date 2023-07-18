@@ -10,7 +10,7 @@
         <link href="{{asset('css/bootstrap.min.css')}}" rel="stylesheet" type="text/css" media="all">
 
         {{-- Icon --}}
-        <link rel="icon" href="{{asset('img/UnsoedIcon.png')}}">
+        <link rel="icon" href="{{asset('img/logo.jpg')}}">
 
         <!-- Fonts -->
         <link href="//fonts.googleapis.com/css?family=Fahkwang:400,500,600,700" rel="stylesheet">
