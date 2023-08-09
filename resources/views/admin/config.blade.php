@@ -27,7 +27,7 @@
                         </ul>
                     </div>
                 </div>
-                
+
                 <div class="trad-history mt-4" >
                     <div class="tab-content" id="myTabContent" >
                         <!-- Scene Tab -->
@@ -84,7 +84,7 @@
                         "render": function (data, type, row, meta) {
                             return meta.row + meta.settings._iDisplayStart + 1;
                         }
-                    }, 
+                    },
                     {data: 'title'},
                     {data: 'image',
                         "render": function(data, type, full, meta){
@@ -93,14 +93,14 @@
                         orderable: false,
                         searchable: false
                     },
-                    {data: 'status', 
+                    {data: 'status',
                         name: 'status',
                         orderable: false,
                         searchable: false
                     },
-                    {data: 'action', 
+                    {data: 'action',
                         name: 'action',
-                        orderable: false, 
+                        orderable: false,
                         searchable: false
                     }
                 ],
@@ -137,9 +137,9 @@
                     {data: 'targetSceneName', name: 'sc2.title'},
                     {data: 'type', name: 'hotspots.type'},
                     {data: 'info', name: 'hotspots.info'},
-                    {data: 'action', 
+                    {data: 'action',
                         name: 'action',
-                        orderable: false, 
+                        orderable: false,
                         searchable: false
                     }
                 ],

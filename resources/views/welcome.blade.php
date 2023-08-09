@@ -127,7 +127,7 @@
         var load = pannellum.viewer('pannellum', {
             "default": {
                 "firstScene": "{{$fscene->id}}",
-                "author": "Universitas Jenderal Soedirman",
+                "author": "Amin Mohamad Fundtation",
                 "autoLoad":true,
                 "sceneFadeDuration": 2000,
                 "autoRotate": -1,
